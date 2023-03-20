@@ -22,7 +22,7 @@ public class Human {
     protected String getExperience() {
         return experience;
     }
-    protected String getGossip() {
+    String getGossip() {
         return gossip;
     }
 }
